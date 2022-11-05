@@ -1,4 +1,4 @@
-# moredash
+# moredash (will be merged into lockevn/gachchan)
 
 Helper functions I found useful
 
